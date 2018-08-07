@@ -35,15 +35,9 @@ El curso utiliza el lenguaje de programación C, ya que éste permite trabajar d
 
 | Nombre                | Github       |
 |:--------------------- |:-------------|
-| Antonio López Larraechea | [@alopez7](https://www.github.com/alopez7) |
-| Antonio López Larraechea | [@alopez7](https://www.github.com/alopez7) |
-| Antonio López Larraechea | [@alopez7](https://www.github.com/alopez7) |
-| Antonio López Larraechea | [@alopez7](https://www.github.com/alopez7) |
-| Antonio López Larraechea | [@alopez7](https://www.github.com/alopez7) |
-| Antonio López Larraechea | [@alopez7](https://www.github.com/alopez7) |
-| Antonio López Larraechea | [@alopez7](https://www.github.com/alopez7) |
-| Antonio López Larraechea | [@alopez7](https://www.github.com/alopez7) |
-| Antonio López Larraechea | [@alopez7](https://www.github.com/alopez7) |
+| Antonio López | [@alopez7](https://www.github.com/alopez7) |
+| Ignacio Hermosilla | [@ignaciohermosillacornejo](https://www.github.com/ignaciohermosillacornejo) |
+| Manuel Becker | [@ManuelBeckerT](https://www.github.com/ManuelBeckerT) |
 
 ## Contenidos
 
