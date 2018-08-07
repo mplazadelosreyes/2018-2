@@ -38,6 +38,12 @@ El curso utiliza el lenguaje de programación C, ya que éste permite trabajar d
 | Antonio López | [@alopez7](https://www.github.com/alopez7) |
 | Ignacio Hermosilla | [@ignaciohermosillacornejo](https://www.github.com/ignaciohermosillacornejo) |
 | Manuel Becker | [@ManuelBeckerT](https://www.github.com/ManuelBeckerT) |
+| Jose Vigneaux | [@jtvigneaux](https://www.github.com/jtvigneaux) |
+| Fabio Traverso | [@fabiot21](https://www.github.com/fabiot21) |
+| Jose Morales | [@josemlira](https://www.github.com/josemlira) |
+| Rafael Carmona | [@RAACarmona](https://www.github.com/RAACarmona) |
+| Nissim Ergas | [@nissimergas](https://www.github.com/nissimergas) |
+| Benjamin Errázuriz | [@berrazuriz1](https://www.github.com/berrazuriz1) |
 
 ## Contenidos
 
