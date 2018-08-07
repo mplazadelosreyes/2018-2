@@ -81,10 +81,10 @@ Habrá 3 interrogaciones y un examen, donde se evaluarán los aspectos más teó
 
 | Evaluación | Fecha | 
 |:----------|:----------|
-| I1 | 3 de Abril a las 18:30 |
-| I2 | 3 de Mayo a las 18:30 |
-| I3 | 30 de Mayo a las 18:30 |
-| Examen | 27 de Junio a las 9:00 |
+| I1 | a las 18:30 |
+| I2 | a las 18:30 |
+| I3 | a las 18:30 |
+| Examen | a las 9:00 |
 
 ### Tareas
 
@@ -111,9 +111,9 @@ double nota_final()
     double NE = (I1 + I2 + I3 + 2 * Ex - min(I1,I2,I3,Ex)) / 4;
     
     /* Es necesario aprobar las pruebas por separado para aprobar el curso */
-    if(NE < 4)
+    if(NE < 3.95 || NT < 3.95)
     {
-       return NE;
+       return min(NT, NE);
     }
     else
     {
