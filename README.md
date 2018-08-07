@@ -1,9 +1,9 @@
 # IIC2133 - Estructuras de Datos y Algoritmos
-## 2018-1
+## 2018-2
 
 Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta página podrás encontrar la información administrativa del curso. En el repositorio podrás encontrar código ya preparado por tus ayudantes, junto con los eventuales enunciados de las tareas y las diapositivas de clases.
 
-Asegurate de echar una mirada a la [Wiki](https://github.com/IIC2133-PUC/2018-1/wiki) del curso, donde estáran todas las guias de como prepararte para poder trabajar en este ramo.
+Asegurate de echar una mirada a la [Wiki](https://github.com/IIC2133-PUC/2018-2/wiki) del curso, donde estáran todas las guias de como prepararte para poder trabajar en este ramo.
 
 ## Tabla de contenidos
  * [Equipo](#equipo)
@@ -35,7 +35,14 @@ El curso utiliza el lenguaje de programación C, ya que éste permite trabajar d
 
 | Nombre                | Github       |
 |:--------------------- |:-------------|
-| Vicente Errázuriz Quiroga | [@Ghoeb](https://www.github.com/Ghoeb) |
+| Antonio López Larraechea | [@alopez7](https://www.github.com/alopez7) |
+| Antonio López Larraechea | [@alopez7](https://www.github.com/alopez7) |
+| Antonio López Larraechea | [@alopez7](https://www.github.com/alopez7) |
+| Antonio López Larraechea | [@alopez7](https://www.github.com/alopez7) |
+| Antonio López Larraechea | [@alopez7](https://www.github.com/alopez7) |
+| Antonio López Larraechea | [@alopez7](https://www.github.com/alopez7) |
+| Antonio López Larraechea | [@alopez7](https://www.github.com/alopez7) |
+| Antonio López Larraechea | [@alopez7](https://www.github.com/alopez7) |
 | Antonio López Larraechea | [@alopez7](https://www.github.com/alopez7) |
 
 ## Contenidos
