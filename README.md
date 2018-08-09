@@ -81,10 +81,10 @@ Habrá 3 interrogaciones y un examen, donde se evaluarán los aspectos más teó
 
 | Evaluación | Fecha | 
 |:----------|:----------|
-| I1 | a las 18:30 |
-| I2 | a las 18:30 |
-| I3 | a las 18:30 |
-| Examen | a las 9:00 |
+| I1 | 5 de septiembre a las 18:30 |
+| I2 | 9 de octubre a las 18:30 |
+| I3 | 8 de noviembre a las 18:30 |
+| Examen | 28 de noviembre a las 9:00 |
 
 ### Tareas
 
