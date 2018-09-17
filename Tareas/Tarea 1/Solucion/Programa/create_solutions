@@ -1,9 +1,0 @@
-#!/bin/bash
-
-counter=0
-while [ $counter -le 5 ]
-do
-./solver tests/large/database.txt tests/large/query_0$counter.txt tests/large/solution/solution_0$counter.txt
-./solver tests/medium/database.txt tests/medium/query_0$counter.txt tests/medium/solution/solution_0$counter.txt
-((counter++))
-done
