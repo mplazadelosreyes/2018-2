@@ -78,4 +78,5 @@ void watcher_close()
     free(board[i]);
   }
   free(board);
+  fclose(out);
 }
