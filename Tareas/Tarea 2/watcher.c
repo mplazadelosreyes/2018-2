@@ -38,7 +38,7 @@ void watcher_clear_magnet(int row, int col, bool vertical)
 {
   board[row][col] = 'E';
   if (vertical) board[row + 1][col] = 'E';
-  else board[row][col] = 'E';
+  else board[row][col + 1] = 'E';
 }
 
 /** Dibuja un iman en la posicion dada indicando si es vertical u orizontal y si es positivo o negativo */
@@ -48,13 +48,13 @@ void watcher_set_magnet(int row, int col, bool vertical, bool positive)
   {
     board[row][col] = 'P';
     if (vertical) board[row + 1][col] = 'N';
-    else board[row][col] = 'N';
+    else board[row][col + 1] = 'N';
   }
   else
   {
     board[row][col] = 'N';
     if (vertical) board[row + 1][col] = 'P';
-    else board[row][col] = 'P';
+    else board[row][col + 1] = 'P';
   }
 }
 
